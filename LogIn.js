@@ -19,4 +19,10 @@ function logIn() {
 			window.open("info.html","_self")
 		}
 	}
+	
+	if (username = "HartleyE") {
+		if (password = "StretchyPlant") {
+			window.open("info.html","_self")
+		}
+	}
 }
