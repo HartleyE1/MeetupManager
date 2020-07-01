@@ -1,0 +1,11 @@
+.loginContainer {
+    background-color: coral;
+    border: black;
+    border-radius: 8px;
+}
+
+loginBtn {
+    border: groove;
+    border: indigo;
+    background-color: lawngreen;
+}
