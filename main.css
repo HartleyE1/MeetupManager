@@ -9,3 +9,17 @@
     border: indigo;
     background-color: lawngreen;
 }
+
+#noticeContainer {
+    overflow-y: scroll;
+    scrollbar-highlight-color: chartreuse;
+    scrollbar-shadow-color: crimson;
+    scrollbar-track-color: cyan;
+    height: 60px;
+    width: 40px;
+}
+
+.notice {
+    height: 40px;
+    width: 40px;
+}
